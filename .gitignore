@@ -28,3 +28,4 @@ hs_err_pid*
 
 *.iml
 
+/out/production/JArray/META-INF/JArray.kotlin_module
